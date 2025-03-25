@@ -2,49 +2,51 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Dillion Verma",
+  name: "Tu Nguyen Anh",
   initials: "DV",
-  url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  url: "https://tuna.io", //for temporary
+  location: "Hưng Yên",
+  locationLink: "https://www.google.com/maps/place/hungyen",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
+    "Bachelor's degree in Software Engineering. I am looking for new opportunities and challenges to develop myself. Ready to learn and acquire new knowledge!",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
-  avatarUrl: "/me.png",
+    "At the end of 2024, I will graduate with a Bachelor's degree in Software Engineering, specializing in NodeJS. Throughout my studies and exposure to the IT industry, I have developed a strong interest in the roles of [Web Developer and Business Analyst](/#education). My future goal is to become a [Software Engineer](/#goal) or a [BrSE (Bridge System Engineer)](/#goal).",
+  avatarUrl: "/me.jpg",
   skills: [
-    "React",
-    "Next.js",
-    "Typescript",
-    "Node.js",
-    "Python",
-    "Go",
-    "Postgres",
-    "Docker",
-    "Kubernetes",
+    "HTML",
+    "CSS",
     "Java",
-    "C++",
+    "Javascript",
+    "ReactJS",
+    "NextJS",
+    "NodeJS",
+    "NodeExpress",
+    "MongoDB",
+    "MySQL",
+    "Jira",
+    "DrawIO",
+    "Visual Paradigm",
+    "Git",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "nguyentu2392@gmail.com",
+    tel: "0968044126",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://github.com/TuNA239",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://dub.sh/dillion-linkedin",
+        url: "www.linkedin.com/in/tu-nguyen-anh-12832a203",
         icon: Icons.linkedin,
-
         navbar: true,
       },
       X: {
@@ -62,9 +64,8 @@ export const DATA = {
       },
       email: {
         name: "Send Email",
-        url: "#",
+        url: "mailto:nguyentu2392@gmail.com",
         icon: Icons.email,
-
         navbar: false,
       },
     },
