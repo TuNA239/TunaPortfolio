@@ -121,7 +121,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
+      image: "/s4s.png",
       video:
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
     },
@@ -142,18 +142,18 @@ export const DATA = {
         "SocketIO",
       ],
       links: [
-        {
-          type: "Website",
-          href: "https://github.com/vuv909/FrontendFacilitates.git",
-          icon: <Icons.globe className="size-3" />,
-        },
+        // {
+        //   type: "Website",
+        //   href: "https://github.com/vuv909/FrontendFacilitates.git",
+        //   icon: <Icons.globe className="size-3" />,
+        // },
         {
           type: "Source",
           href: "https://github.com/vuv909/FrontendFacilitates.git",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/fms.png",
       video: "https://cdn.magicui.design/bento-grid.mp4",
     },
     {
@@ -182,7 +182,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/pilyr-logo.png",
       video: "https://cdn.llm.report/openai-demo.mp4",
     },
     {
@@ -199,12 +199,17 @@ export const DATA = {
       ],
       links: [
         {
-          type: "Website",
+          type: "Source",
           href: "https://github.com/TuNA239/Conduit.git",
-          icon: <Icons.globe className="size-3" />,
+          icon: <Icons.github className="size-3" />,
         },
+        // {
+        //   type: "Source",
+        //   href: "https://github.com/TuNA239/Conduit.git",
+        //   icon: <Icons.globe className="size-3" />,
+        // },
       ],
-      image: "",
+      image: "/conduit.png",
       video:
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
     },
