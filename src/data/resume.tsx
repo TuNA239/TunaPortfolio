@@ -128,7 +128,7 @@ export const DATA = {
     {
       title: "Facilities Management System",
       href: "https://magicui.designhttps://github.com/vuv909/FrontendFacilitates.git",
-      dates: "Jan 2024 - may 2024",
+      dates: "Jan 2024 - May 2024",
       active: true,
       description:
         "An internal system used for managing facilities as well as handling room booking requests and scheduling.",
@@ -168,8 +168,8 @@ export const DATA = {
         "Tailwind",
         "NodeExpress",
         "MongoDB",
-        "Socket",
-      ],
+        "SocketIO",
+      ], 
       links: [
         {
           type: "Website",
