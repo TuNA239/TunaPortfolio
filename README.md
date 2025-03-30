@@ -13,7 +13,7 @@ This is a portfolio website showcasing my projects, skills, and experiences. Bui
 
 ## Demo
 
-[shoe4sure-web.vercel.app/](https://shoe4sure-web.vercel.app/)
+[portfolio-tuna.vercel.app/](https://portfolio-tuna.vercel.app/)
 
 ## Prerequisites
 
