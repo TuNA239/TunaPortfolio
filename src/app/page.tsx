@@ -18,7 +18,7 @@ export default function Page() {
 
   return (
     <div className="relative flex flex-col min-w-fit">
-      <main className="relative z-10 flex flex-col min-h-[100dvh] space-y-10 w-1/2 min-w-full bg-gray-50 p-6 rounded-lg shadow-lg opacity-90">
+      <main className="bg-transparent relative z-10 flex flex-col min-h-[100dvh] space-y-10 w-1/2 min-w-full bg-gray-50 p-6 rounded-lg shadow-lg opacity-90">
         <section id="hero">
           <div className="mx-auto w-full max-w-2xl space-y-8">
             <div className="gap-2 flex justify-between">
