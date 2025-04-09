@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Bachelor's degree in Software Engineering. I am looking for new opportunities and challenges to develop myself. Ready to learn and acquire new knowledge!",
   summary:
-    "At the end of 2024, I will graduate with a Bachelor's degree in Software Engineering, specializing in NodeJS. Throughout my studies and exposure to the IT industry, I have developed a strong interest in the roles of [Web Developer and Business Analyst](/#education). My future goal is to become a [Software Engineer](/#goal) or a [BrSE (Bridge System Engineer)](/#goal).",
+    "At the end of 2024, I graduated with a Bachelor's degree in Software Engineering, specializing in NodeJS. Throughout my studies and exposure to the IT industry, I have developed a strong interest in the roles of [Web Developer and Business Analyst](/#education). My future goal is to become a [Software Engineer](/#goal) or a [BrSE (Bridge System Engineer)](/#goal).",
   avatarUrl: "/me.jpg",
   skills: [
     "HTML",
